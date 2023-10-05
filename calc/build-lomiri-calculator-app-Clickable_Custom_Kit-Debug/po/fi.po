@@ -1,0 +1,195 @@
+# Finnish translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Finnish <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/fi/>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "Laskin"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "Laskin Ubuntulle."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr ""
+"math;addition;subtraction;multiplication;division;matematiikka;lisäys;"
+"vähennys;kertaus;jakaminen;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "Epäluku"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "Peru"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "Valitse kaikki"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "Ei valintaa"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "Kopioi"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "Poista"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "Muokkaa kaavaa"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "Jakojäännös"
+
+#~ msgid "Favorite"
+#~ msgstr "Suosikki"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Lisää suosikkeihin"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "d. MMM yyyy"
+
+#~ msgid "No favorites"
+#~ msgstr "Ei suosikkeja"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "Vedä laskut vasemmalle\n"
+#~ "merkitäksesi ne suosikkeihin"
+
+#~ msgid "Just now"
+#~ msgstr "Juuri nyt"
+
+#~ msgid "Today "
+#~ msgstr "Tänään "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh.mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "Eilen"
+
+#~ msgid "Skip"
+#~ msgstr "Ohita"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "Tervetuloa käyttämään laskinta"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "Nauti matematiikasta laskinta käyttäen"
+
+#~ msgid "Copy formula"
+#~ msgstr "Kopioi kaava"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr ""
+#~ "Pitkä painallus kopioidaksesi osan kaavasta tai koko kaavan leikepöydälle"
+
+#~ msgid "Enjoy"
+#~ msgstr "Nauti"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "Toivottavasti nautit laskimen käyttämisestä!"
+
+#~ msgid "Finish"
+#~ msgstr "Valmis"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "Tieteellinen näppäimistö"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr "Käytä tieteislaskinta vetämällä numeronäppäimiä vasemmalle"
+
+#~ msgid "Scientific View"
+#~ msgstr "Tieteellinen näkymä"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr "Käännä laite nähdäksesi numero- ja tiedepainikkeet samanaikaisesti"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "Poista laskuhistoriasta"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "Vedä oikealle poistaaksesi tietueita laskimen historiasta"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "Poista useita kohteita laskuhistoriasta"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "Tee pitkä painallus valitaksesi useita laskuja poistoa varten"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "Poista koko kaava kerralla"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr ""
+#~ "Paina  '←'-painiketta pitkään poistaaksesi kaikki laskut kirjoitustilasta"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "Muokkaa kohdetta laskuhistoriasta"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "Vedä vasemmalle ja paina kynän kuvaketta muokataksesi laskua"
+
+#~ msgid "Add new favourite"
+#~ msgstr "Lisää uusi suosikki"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr ""
+#~ "Vedä vasemmalle ja paina tähden kuvaketta lisätäksesi laskuja "
+#~ "suosikkinäkymään"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "Napsauta kaavan keskiosaa muokataksesi sitä"

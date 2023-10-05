@@ -1,0 +1,201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Canonical Ltd.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Sardinian <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/sc/>\n"
+"Language: sc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "Carculadora"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "Una carculadora pro Ubuntu."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "additzione;sutratzione;carculadora;multiplicatzione;divisione;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "NaN"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "Annulla"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "Seletziona totus"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "Non seletziones nudda"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "Còpia"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "Cantzella"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "Modìfica"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "Modìfica fòrmula"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "mod"
+
+#~ msgid "Favorite"
+#~ msgstr "Preferidu"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Agiunghe a is preferidos"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "dd MMM yyyy"
+
+#~ msgid "No favorites"
+#~ msgstr "Non bi sunt preferidos"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "Iscurre is càrculos a manca\n"
+#~ "pro los agiùnghere a is preferidos"
+
+#~ msgid "Just now"
+#~ msgstr "Immoe etotu"
+
+#~ msgid "Today "
+#~ msgstr "Oe "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "Eris"
+
+#~ msgid "Skip"
+#~ msgstr "Brinca"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "Ti donamus su benebènnidu a sa Carculadora"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr ""
+#~ "Ispàssia·ti cun sa potèntzia de sa matemàtica impreende sa Carculadora"
+
+#~ msgid "Copy formula"
+#~ msgstr "Còpia sa fòrmula"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr ""
+#~ "Mantene sa pressione pro copiare una parte o totu sa fòrmula a sa punta "
+#~ "de billete"
+
+#~ msgid "Enjoy"
+#~ msgstr "Ispàssia·ti"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "Isperamus chi t'ispàssies impreende sa Calculadora!"
+
+#~ msgid "Finish"
+#~ msgstr "Acabba"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "Tecladu iscientìficu"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr ""
+#~ "Atzede a is funtziones iscientìficas cun un'iscurrimentu a manca in su "
+#~ "tecladu numèricu"
+
+#~ msgid "Scientific View"
+#~ msgstr "Modalidade iscientìfica"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr ""
+#~ "Gira su dispositivu pro ammustrare is funtziones numèricas e "
+#~ "iscientìficas in paris"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "Cantzella un'elementu dae sa cronologia de is càrculos"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr ""
+#~ "Iscurre su didu a dereta pro cantzellare is elementos dae sa cronologia "
+#~ "de is càrculos"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "Cantzella vàrios elementos dae sa cronologia de is càrculos"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "Mantene sa pressione pro eliminare vàrios càrculos"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "Cantzella sa fòrmula intrea"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr ""
+#~ "Mantene sa pressione de su pulsante '←' pro limpiare totus is fòrmulas "
+#~ "dae sa barra de intrada"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "Modìfica s'elementu dae sa cronologia de is càrculos"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "Iscurre a manca e carca su lapis pro modificare is càrculos"
+
+#~ msgid "Add new favourite"
+#~ msgstr "Agiunghe preferidu"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr ""
+#~ "Iscurre a manca e carca s'istella pro agiùnghere is càrculos a is "
+#~ "preferidos"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "Incarca in mesu de una fòrmula pro la modificare"

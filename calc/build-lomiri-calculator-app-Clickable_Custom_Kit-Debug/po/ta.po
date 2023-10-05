@@ -1,0 +1,193 @@
+# Tamil translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "கணிப்பான்"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "உபுண்ட்டுவின் கணிப்பான்."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "கணிதம்;கூட்டல்;கழித்தல்;பெருக்கல்;வகுத்தல்;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "எண்ணல்ல"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "தவிர்க்க"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "அனைத்தையும் தேர்ந்தெடு"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "எதையும் தேர்ந்தெடுக்காதே"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "நகலெடு"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "நீக்குக"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "திருத்துக"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "வரைவிதியைத் திருத்துக"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "மடக்கை"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "மீதி"
+
+#~ msgid "Favorite"
+#~ msgstr "பிடித்தவை"
+
+#~ msgid "Add to favorites"
+#~ msgstr "பிடித்தவையில் சேர்"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "நந மமம வவவவ"
+
+#~ msgid "No favorites"
+#~ msgstr "பிடிக்காதவைகள்"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "கணக்குகளை பிடித்தவையெனக் குறிக்க\n"
+#~ "இடதுபுறமாக தேய்துநகர்த்துக"
+
+#~ msgid "Just now"
+#~ msgstr "இப்பொழுதே"
+
+#~ msgid "Today "
+#~ msgstr "இன்று "
+
+#~ msgid "hh:mm"
+#~ msgstr "மம:நிநி"
+
+#~ msgid "Yesterday"
+#~ msgstr "நேற்று"
+
+#~ msgid "Skip"
+#~ msgstr "விட்டுத்தாவு"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "கணிப்பானுக்கு வரவேற்கிறேன்"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "கணிப்பானால் கணக்கின் விந்தையை கண்டு மகிழுங்கள்"
+
+#~ msgid "Copy formula"
+#~ msgstr "வரைவிதியை நகலெடு"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr ""
+#~ "பகுதி அல்லது முழு வரைவிதியை பிடிப்புப்பலகைக்கு நகலெடுக்க நெடுநேரம் அழுத்தவும்"
+
+#~ msgid "Enjoy"
+#~ msgstr "மகிழுங்கள்"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "இந்த கணிப்பானை பயன்படுத்தி மகிழ்வீர்கள் என நம்புகிறோம்!"
+
+#~ msgid "Finish"
+#~ msgstr "முடி"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "அறிவியல் விசைப்பலகை"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr "அறிவியல் சார்புகளை அணுக, எண் விசைதளத்தை இடதுபக்கமாகத் தேய்க்கவும்"
+
+#~ msgid "Scientific View"
+#~ msgstr "அறிவியல் பார்வை"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr "அறிவியல் சாப்புகளுடன் எண்களையும் சேர்த்துக் காண்பிக்க, சாதனத்தைச் சுழற்றவும்"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "கணக்கு வரலாற்றிலிருந்து உருப்படியை அகற்றுக"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "கணிப்பானின் வரலாற்றிலிருந்து உருப்படிகளை அகற்ற வலதுபுறம் தேய்க்கவும்"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "கணிப்பானின் வரலாற்றிலிருந்து பல்வேறு உருப்படிகளை அகற்றவும்"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "அழிப்பதற்கான பல கணக்குகளை தேர்வுசெய்ய நெடுநேரம் அழுத்தவும்"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "முழு வரைவிதியையும் ஒரே நேரத்தில் அழிக்கவும்"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr ""
+#~ "உள்ளீட்டுப் பட்டையிலிருக்கும் அனைத்து வரைவிதியையும் அகற்ற, '←' பொத்தானை நெடுநேரம் "
+#~ "அழுத்தவும்"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "கணித்த வரலாற்றிலிருக்கும் உருப்படியைத் திருத்துக"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "கணக்கைத் திருத்த இடதுபுறமாக தேற்த்து எழுதுகோலை அழுத்தவும்"
+
+#~ msgid "Add new favourite"
+#~ msgstr "புதிதாக பிடித்தவையைச் சேர்"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr ""
+#~ "பிடித்தவையில் பார்பதற்கு கணக்குகளைச் சேர்க்க, இடதுபுறமாகத் தேய்த்து விண்மீனை அழுத்தவும்"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "வரைவிதியை திருத்த நினைக்கும் இடத்தில் சொடுக்கவும்"

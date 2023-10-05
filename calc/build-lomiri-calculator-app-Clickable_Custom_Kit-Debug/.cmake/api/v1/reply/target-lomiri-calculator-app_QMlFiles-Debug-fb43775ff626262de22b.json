@@ -1,0 +1,52 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"app/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "lomiri-calculator-app_QMlFiles::@5f5a17c01335469806cb",
+	"name" : "lomiri-calculator-app_QMlFiles",
+	"paths" : 
+	{
+		"build" : "app",
+		"source" : "app"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "app/lomiri-calculator-app.qml",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,199 @@
+# Belarusian translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-02-16 22:38+0000\n"
+"Last-Translator: phlostically <phlostically@mailinator.com>\n"
+"Language-Team: Belarusian <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/be/>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "Калькулятар"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "Калькулятар для Ubuntu."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "матэматыка;складанне;адніманне;памнажэнне;дзяленне;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "Не лік"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "Скасаваць"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "Абраць усе"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "Нічога не абрана"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "Скапіяваць"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "Выдаліць"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "Рэдагаваць"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "Рэдагаваць формулу"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "лагарыфм"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "модуль"
+
+#~ msgid "Favorite"
+#~ msgstr "Улюбёнае"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Дадаць ва ўлюбёнае"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "dd MMM yyyy"
+
+#~ msgid "No favorites"
+#~ msgstr "Няма ўлюбёных"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "Правядзіце па разліках улева,\n"
+#~ "каб дадаць іх ва ўлюбёныя"
+
+#~ msgid "Just now"
+#~ msgstr "Толькі што"
+
+#~ msgid "Today "
+#~ msgstr "Сёння "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "Учора"
+
+#~ msgid "Skip"
+#~ msgstr "Мінуць"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "Вітаем у калькулятары"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "Адчуйце моц матэматыкі пры дапамозе калькулятара"
+
+#~ msgid "Copy formula"
+#~ msgstr "Скапіяваць формулу"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr ""
+#~ "Націсніце і патрымайце, каб скапіяваць частку або ўсю формулу ў буфер "
+#~ "абмену"
+
+#~ msgid "Enjoy"
+#~ msgstr "Карыстайцеся"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "Мы спадзяемся, што вам спадабаецца калькулятар!"
+
+#~ msgid "Finish"
+#~ msgstr "Скончыць"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "Навуковая клавіятура"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr ""
+#~ "Атрымайце доступ да навуковых функцый, правёўшы ўлева на лічбавай "
+#~ "клавіятуры"
+
+#~ msgid "Scientific View"
+#~ msgstr "Навуковы выгляд"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr ""
+#~ "Павярніце тэлефон для таго, каб убачыць разам лічбавыя і навуковыя функцыі"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "Выдаліць элемент з гісторыі"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "Правядзіце ўправа, каб выдаліць элементы з гісторыі калькулятара"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "Выдаленне некалькіх элементаў з гісторыі вылічэнняў"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "Націсніце і патрымайце, каб абраць некалькі аперацый для выдалення"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "Выдаліць усю формулу"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr ""
+#~ "Націсніце і патрымайце кнопку \"←\", каб выдаліць усе формулы з панэлі "
+#~ "ўводу"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "Змяніць элемент з гісторыі вылічэнняў"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "Правядзіце ўлева і націсніце аловак, каб змяніць вылічэнне"
+
+#~ msgid "Add new favourite"
+#~ msgstr "Дадаць ва ўлюбёнае"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr ""
+#~ "Правядзіце ўлева і націсніце кнопку зорачкі, каб дадаць вылічэнні ва "
+#~ "ўлюбёнае"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "Націсніце ў сярэдзіне формулы, каб рэдагаваць яе"

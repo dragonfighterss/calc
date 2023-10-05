@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Calculator
+Comment=A calculator for Lomiri.
+Keywords=math;addition;subtraction;multiplication;division;
+Exec=lomiri-calculator-app-migrate.py qmlscene -qt5 $@ share/qml/lomiri-calculator-app.qml
+Icon=lomiri-calculator-app.svg
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true
+X-Lomiri-Default-Department-ID=accessories
+X-Lomiri-Splash-Image=lomiri-calculator-app-splash.svg
+X-Lomiri-Splash-Color-Header=#49c6b6
+X-Lomiri-Splash-Color=#55ccb9
+X-Lomiri-Splash-Color-Footer=#61d3bb

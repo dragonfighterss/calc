@@ -1,0 +1,17 @@
+app/engine/CalculationHistory.qml
+app/engine/MathJs.qml
+app/engine/formula.js
+app/engine/math.js
+app/lomiri-calculator-app.qml
+app/ui/ActionButton.qml
+app/ui/BottomEdgePage.qml
+app/ui/CalcKeyboard.qml
+app/ui/KeyboardButton.qml
+app/ui/KeyboardPage.qml
+app/ui/LandscapeKeyboard.qml
+app/ui/PortraitKeyboard.qml
+app/ui/Screen.qml
+app/ui/ScrollableView.qml
+app/ui/TextInputPopover.qml
+app/upstreamcomponents/EmptyState.qml
+app/upstreamcomponents/MultipleSelectionVisualModel.qml

@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Canonical Ltd.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Lithuanian <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/lt/>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > "
+"19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? "
+"1 : 2);\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "Skaičiuotuvas"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "Skaičiuotuvas, skirtas Ubuntu."
+
+#: lomiri-calculator-app.desktop.in:5
+#, fuzzy
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "math;addition;subtraction;multiplication;division;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "Neskaičius"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "Atsisakyti"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "Žymėti viską"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "Nieko nežymėti"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "Kopijuoti"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "Ištrinti"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "Taisyti"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+msgid "Edit Result"
+msgstr "Edit Result"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+#, fuzzy
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+#, fuzzy
+msgid "mod"
+msgstr "mod"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "yyyy MMM dd"
+
+#~ msgid "Just now"
+#~ msgstr "Ką tik"
+
+#~ msgid "Today "
+#~ msgstr "Šiandien "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "Vakar"
+
+#~ msgid "Skip"
+#~ msgstr "Praleisti"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "Sveiki atvykę į Skaičiuotuvą"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "Mėgaukitės matematikos galia naudodami Skaičiuotuvą"
+
+#~ msgid "Copy formula"
+#~ msgstr "Kopijuoti formulę"
+
+#~ msgid "Enjoy"
+#~ msgstr "Mėgaukitės"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "Tikimės, kad mėgausitės naudodami Skaičiuotuvą!"
+
+#~ msgid "Finish"
+#~ msgstr "Užbaigti"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "Mokslinė klaviatūra"
+
+#~ msgid "Scientific View"
+#~ msgstr "Mokslinis rodinys"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "Ištrinti elementą iš skaičiuotuvo istorijos"

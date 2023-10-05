@@ -1,0 +1,206 @@
+# Gaelic; Scottish translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+# GunChleoc <fios@foramnagaidhlig.net>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Gaelic <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/gd/>\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "An t-àireamhair"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "Àireamhair airson Ubuntu."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr ""
+"math;addition;subtraction;multiplication;division;matamataig;roinneadh;toirt "
+"air falbh;cur ris;iomadadh;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "NaN"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "Sguir dheth"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "Tagh na h-uile"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "Dì-thagh na h-uile"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "Dèan lethbhreac"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "Sguab às"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "Deasaich"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "Deasaich foirmle"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "mod"
+
+#~ msgid "Favorite"
+#~ msgstr "Annsachd"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Cuir ris na h-annsachdan"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "dd MMM yyyy"
+
+#~ msgid "No favorites"
+#~ msgstr "Chan eil annsachd ann"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "Grad-shlaighd cunntas dhan taobh chlì\n"
+#~ "gus annsachd a dhèanamh dheth"
+
+#~ msgid "Just now"
+#~ msgstr "An-dràsta fhèin"
+
+#~ msgid "Today "
+#~ msgstr "An-diugh "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "An-dè"
+
+#~ msgid "Skip"
+#~ msgstr "Gearr leum"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "Fàilte dhan àireamhair"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "Faigh tlachd à cumhachd a' mhatamataig leis an àireamhair"
+
+#~ msgid "Copy formula"
+#~ msgstr "Dèan lethbhreac dhe dh'fhoirmle"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr ""
+#~ "Dèan brùthadh fada gus lethbhreac dhen fhoirmle shlàn no pàirt dhith a "
+#~ "chur dhan stòr-bhòrd"
+
+#~ msgid "Enjoy"
+#~ msgstr "Gabh tlachd"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "Tha sinn an dòchas gun còrd an t-àireamhair riut!"
+
+#~ msgid "Finish"
+#~ msgstr "Crìochnaich"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "Meur-chlàr saidheansail"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr ""
+#~ "Inntrig foincseanan saidheansail le grad-shlaighdeadh clì air a' mheur-"
+#~ "chlàr"
+
+#~ msgid "Scientific View"
+#~ msgstr "Sealladh saidheansail"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr ""
+#~ "Cuairtich an t-inneal gus foincseanan àireamhail is saidheansail a "
+#~ "shealltainn còmhla"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "Sguab às nì o eachdraidh an àireamhachaidh"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr ""
+#~ "Grad-shlaighd gu deas gus nithean a sguabadh às o eachdraidh an àireamhair"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "Sguab às iomadh nì o eachdraidh an àireamhachaidh"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr ""
+#~ "Dèan brùthadh fada gus iomadh àireamhachadh ri sguabadh às a thaghadh"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "Sguab às foirmle shlàn"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr ""
+#~ "Dèan brùthadh fada air a' phutan \"←\" gus a h-uile foirmle a thoirt air "
+#~ "falbh o bhàr an ion-chuir"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "Deasaich às nì ann an eachdraidh an àireamhachaidh"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr ""
+#~ "Grad-shlaighd gu clì is brùth air a' pheansail gus an t-àireamhachadh a "
+#~ "dheasachadh"
+
+#~ msgid "Add new favourite"
+#~ msgstr "Cuir ris annsachd ùr"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr ""
+#~ "Grad-shlaighd gu clì is brùth air an rionnag gus àireamhachaidhean a chur "
+#~ "ri sealladh nan annsachdan"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "Briog air meadhan foirmle gus a dheasachadh ann"

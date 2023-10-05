@@ -1,0 +1,197 @@
+# Spanish translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-04-06 21:55+0000\n"
+"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "Calculadora"
+
+#: lomiri-calculator-app.desktop.in:4
+msgid "A calculator for Lomiri."
+msgstr "Una calculadora para Lomiri."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "matemáticas;suma;resta;multiplicación;división;"
+
+#: lomiri-calculator-app.desktop.in:7
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "NaN"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "No seleccionar nada"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "Copiar"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "Eliminar"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "Editar"
+
+#: app/lomiri-calculator-app.qml:452
+msgid "Edit Result"
+msgstr "Editar el Resultado"
+
+#: app/lomiri-calculator-app.qml:823
+msgid "Functions"
+msgstr "Funciones"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "mod"
+
+#~ msgid "Favorite"
+#~ msgstr "Favorito"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Añadir a favoritos"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "dd MMM yyyy"
+
+#~ msgid "No favorites"
+#~ msgstr "Sin favoritos"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "Deslizar cálculos a la izquierda\n"
+#~ "para marcarlos como favoritos"
+
+#~ msgid "Just now"
+#~ msgstr "Ahora mismo"
+
+#~ msgid "Today "
+#~ msgstr "Hoy "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "Ayer"
+
+#~ msgid "Skip"
+#~ msgstr "Omitir"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "Bienvenido/a a la calculadora"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "Disfrute de la potencia de las matemáticas usando la calculadora"
+
+#~ msgid "Copy formula"
+#~ msgstr "Copiar fórmula"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr ""
+#~ "Haga una pulsación prolongada para copiar parte o toda una fórmula al "
+#~ "portapapeles"
+
+#~ msgid "Enjoy"
+#~ msgstr "Disfrute"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "¡Esperamos que disfrute usando la calculadora!"
+
+#~ msgid "Finish"
+#~ msgstr "Finalizar"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "Teclado científico"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr ""
+#~ "Acceda a las funciones científicas deslizando hacia la izquierda el "
+#~ "teclado numérico"
+
+#~ msgid "Scientific View"
+#~ msgstr "Vista científica"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr ""
+#~ "Rote el dispositivo para mostrar las funciones numéricas y científicas a "
+#~ "la vez"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "Borrar elemento del historial de cálculos"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr ""
+#~ "Deslice hacia la derecha para eliminar elementos del historial de la "
+#~ "calculadora"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "Borrar varios elementos del historial de cálculos"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr ""
+#~ "Pulsando prolongadamente puede seleccionar varios cálculos para su "
+#~ "eliminación"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "Eliminar la fórmula completa de una sola vez"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr ""
+#~ "Una pulsación prolongada del botón «←» borra todas las fórmulas de la "
+#~ "barra de entrada"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "Editar elemento del historial de cálculos"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "Deslice hacia la izquierda y pulse el lápiz para editar un cálculo"
+
+#~ msgid "Add new favourite"
+#~ msgstr "Añadir favorito"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr ""
+#~ "Deslice hacia la izquierda y pulse la estrella para añadir los cálculos a "
+#~ "la vista de favoritos"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "Pulse en la mitad de una fórmula para editarla"

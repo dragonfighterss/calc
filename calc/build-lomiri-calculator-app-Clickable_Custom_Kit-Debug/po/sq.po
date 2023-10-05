@@ -1,0 +1,200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Canonical Ltd.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Albanian <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/sq/>\n"
+"Language: sq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "Kalkulatori"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "Një Kalkulator për Ubuntu."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "Matematikë, shumëzimi, zbritja, mbledhje, ndarja;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "NaN"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "Anullo"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "Përzgjidh Gjithçka"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "Anulo zgjedhjen"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "Kopjo"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "Fshijë"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "Ndrysho"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "Redakto Formulen"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "mod"
+
+#~ msgid "Favorite"
+#~ msgstr "Favoritet"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Fut tek Favoritet"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "dd MMM yyyy"
+
+#~ msgid "No favorites"
+#~ msgstr "Asnjë Favorit"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "Fshij llogaritje nga e majta,\n"
+#~ "për t'i shënuar ato si të preferuarat"
+
+#~ msgid "Just now"
+#~ msgstr "Tani sapo"
+
+#~ msgid "Today "
+#~ msgstr "Sotë "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "Dje"
+
+#~ msgid "Skip"
+#~ msgstr "Kaloje"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "Mirësevini tek Kalkulatori"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "Shijoni fuqinë e Matematikës duke përdorur Kalkulatorin"
+
+#~ msgid "Copy formula"
+#~ msgstr "Kopjo Formulen"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr ""
+#~ "Shtypni dhe mbani shtypur për të kopjuar një formulë pjesërisht ose "
+#~ "tërësisht në clipboard"
+
+#~ msgid "Enjoy"
+#~ msgstr "Argëtim të këndshëm"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "Ne shpresojmë që ju të keni shumë argëtim me këtë kalkulator!"
+
+#~ msgid "Finish"
+#~ msgstr "Mbyllë"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "Tastier shkencor"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr "Shfaq Funksionet shkencore duke fshirë në të majtë"
+
+#~ msgid "Scientific View"
+#~ msgstr "Pamje shkencore"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr ""
+#~ "Rrotulloni pajisjen për të shfaqur funksione numerike dhe shkencore krah "
+#~ "për krah"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "Fshini një element nga historiku i llogaritjes"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr ""
+#~ "Rrëshqitni djathtas, për të fshirë një hyrje nga historiku i kalkulatorit"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "Fshini disa elemente nga procesi i llogaritjes"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr ""
+#~ "Shtypni dhe mbani shtypur për të zgjedhur llogaritje të shumta për fshirje"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "Fshijë e gjithë Formulen"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr ""
+#~ "Trokitni lehtë mbi butonin '←' për të fshirë të gjitha formulat nga fusha "
+#~ "e futjes"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "Ndrysho një artikull nga historiku i llogaritjes"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr ""
+#~ "Rrëshqitni majtas dhe trokitni lehtë mbi majë shkruese për të redaktuar "
+#~ "llogaritjen"
+
+#~ msgid "Add new favourite"
+#~ msgstr "Fut tek Favoritet"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr ""
+#~ "Rrëshqitni majtas dhe prekni yllin për të shtuar llogaritje në pamjen e "
+#~ "preferuar"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "Klikoni në mes të një formule për ta redaktuar atë atje"

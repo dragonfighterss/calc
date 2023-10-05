@@ -1,0 +1,189 @@
+# Chinese (Traditional) translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-02-16 22:38+0000\n"
+"Last-Translator: phlostically <phlostically@mailinator.com>\n"
+"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
+"lomiri/lomiri-calculator-app/zh_Hant/>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "計算機"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "Ubuntu 計算機。"
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "數學;加;減;乘;除;math;addition;subtraction;multiplication;division;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "非數值"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "取消"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "全部選取"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "取消選取"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "複製"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "刪除"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "編輯"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "編輯運算公式"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "對數"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "取模"
+
+#~ msgid "Favorite"
+#~ msgstr "收藏"
+
+#~ msgid "Add to favorites"
+#~ msgstr "加入收藏"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "yyyy MMM dd"
+
+#~ msgid "No favorites"
+#~ msgstr "沒有收藏的運算公式"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "在算式上往左滑動\n"
+#~ "將它加入收藏"
+
+#~ msgid "Just now"
+#~ msgstr "剛剛"
+
+#~ msgid "Today "
+#~ msgstr "今天 "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "昨天"
+
+#~ msgid "Skip"
+#~ msgstr "略過"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "歡迎使用計算機"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "使用計算機來感受數學的力量"
+
+#~ msgid "Copy formula"
+#~ msgstr "複製公式"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr "長按來複製部份或全部的運算公式到剪貼簿"
+
+#~ msgid "Enjoy"
+#~ msgstr "盡情享受"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "我們希望您喜歡使用這個計算機！"
+
+#~ msgid "Finish"
+#~ msgstr "完成"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "科學計算鍵盤"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr "在數字鍵盤上向左滑動來使用科學運算公式"
+
+#~ msgid "Scientific View"
+#~ msgstr "科學運算模式"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr "旋轉你的裝置以便同時顯示數字與科學運算公式"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "從歷史紀錄中刪除項目"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "在歷史紀錄中往右滑動來刪除該項計算結果"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "從歷史紀錄中刪除多個項目"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "長按來選擇多個想要刪除的計算結果"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "一次刪除整條運算公式"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr "長按「←」按鈕來清除輸入欄的所有運算公式"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "從歷史紀錄中編輯項目"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "向左滑動並按下鉛筆符號來編輯運算公式"
+
+#~ msgid "Add new favourite"
+#~ msgstr "加入新的收藏"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr "向左滑動並按下星號來將運算公式加入收藏"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "點擊一條運算公式的中間來進行編輯"

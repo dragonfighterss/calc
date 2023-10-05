@@ -1,0 +1,191 @@
+# Esperanto translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-02-20 18:35+0000\n"
+"Last-Translator: phlostically <phlostically@mailinator.com>\n"
+"Language-Team: Esperanto <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/eo/>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "Kalkulilo"
+
+#: lomiri-calculator-app.desktop.in:4
+msgid "A calculator for Lomiri."
+msgstr "Kalkulilo por Lomiri."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr ""
+"matematiko;aritmetiko;sumo;adicio;subtraho;multipliko;oblo;produto;divido;kvo"
+"ciento;proporcio;rilatumo;"
+
+#: lomiri-calculator-app.desktop.in:7
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "Ne nombro"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "Nuligi"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "Elekti ĉion"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "Elekti neniun"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "Kopii"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "Forigi"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "Redakti"
+
+#: app/lomiri-calculator-app.qml:452
+msgid "Edit Result"
+msgstr "Redakti rezulton"
+
+#: app/lomiri-calculator-app.qml:823
+msgid "Functions"
+msgstr "Funkcioj"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "logaritmo"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "module"
+
+#~ msgid "Favorite"
+#~ msgstr "Legosignoj"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Aldoni al legosignoj"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "tt MMM jjjj"
+
+#~ msgid "No favorites"
+#~ msgstr "Sen legosignoj"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "Ŝovumu kalkulojn maldekstre\n"
+#~ "por marki kiel legosignojn"
+
+#~ msgid "Just now"
+#~ msgstr "Nun"
+
+#~ msgid "Today "
+#~ msgstr "Hodiaŭ "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "Hieraŭ"
+
+#~ msgid "Skip"
+#~ msgstr "Preterpaŝi"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "Bonvenon al Kalkulilo"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "Ĝuu la potencon de la matematiko per la uzado de la Kalkulilo"
+
+#~ msgid "Copy formula"
+#~ msgstr "Kopii formulon"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr ""
+#~ "Longtempa premo por kopii tuton aŭ parton de la formulo al la tondujo"
+
+#~ msgid "Enjoy"
+#~ msgstr "Ĝuu"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "Ni deziras ke vi ĝuu la uzadon de la Kalkulilo!"
+
+#~ msgid "Finish"
+#~ msgstr "Fini"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "Scienca klavaro"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr ""
+#~ "Aliru sciencajn funkciojn ŝovumante maldekstren sur la cifera klavaro"
+
+#~ msgid "Scientific View"
+#~ msgstr "Scienca vido"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr "Turnu la aparaton por montri ciferajn kaj sciencajn funkciojn kune"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "Forigi eron el la kalkula historio"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "Ŝovumu dekstren por forigi erojn el la kalkula historio"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "Forigi plurajn erojn el la kalkula historio"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "Longtempa premo por selekti plurajn forigotajn kalkulojn"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "Forigi la tutan formulon per unu fojo"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr ""
+#~ "Longtempa premo de la butono '←' por vakigi ĉiujn formulojn el la eniga "
+#~ "strio"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "Redakti eron de la kalkula historio"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "Ŝovumu maldekstren kaj premu la krajonon por redakti kalkulon"
+
+#~ msgid "Add new favourite"
+#~ msgstr "Aldoni legosignon"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr ""
+#~ "Ŝovumu maldekstre kaj premu stelon por aldoni kalkulojn al via legosigna "
+#~ "vido"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "Klaku sur la mezo de formulo por redakti ĝin"

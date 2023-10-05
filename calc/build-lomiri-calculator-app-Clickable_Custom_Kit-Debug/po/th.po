@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Canonical Ltd.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Thai <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/th/>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "เครื่องคิดเลข"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "เครื่องคิดเลขสำหรับอูบันตุ"
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "คณิต;บวก;ลบ;คูณ;หาร;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "NaN"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "เลือกทั้งหมด"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "ไม่เลือก"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "คัดลอก"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "ลบ"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "แก้ไขสูตร"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "mod"
+
+#~ msgid "Favorite"
+#~ msgstr "รายการโปรด"
+
+#~ msgid "Add to favorites"
+#~ msgstr "เพิ่มเข้ารายการโปรด"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "วว ดดด ปปปป"
+
+#~ msgid "No favorites"
+#~ msgstr "ไม่มีรายการโปรด"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "ลากหน้าจอเครื่องคิดเลขไปทางซ้าย\n"
+#~ "เพื่อทำเครื่องหมายเป็นรายการโปรด"
+
+#~ msgid "Just now"
+#~ msgstr "เร็ว ๆ นี้"
+
+#~ msgid "Today "
+#~ msgstr "วันนี้ "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "เมื่อวาน"
+
+#~ msgid "Skip"
+#~ msgstr "ข้าม"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "ยินดีต้อนรับสู่เครื่องคิดเลข"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "สนุกกับคณิตศาสตร์โดยใช้เครื่องคิดเลข"
+
+#~ msgid "Copy formula"
+#~ msgstr "คัดลอกสูตร"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr "กดค้างเพื่อคัดลอกส่วนหนึ่งหรือทั้งหมดของสูตรไปยังคลิปบอร์ด"
+
+#~ msgid "Enjoy"
+#~ msgstr "สนุก"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "หวังว่าคุณจะสนุกกับการใช้เครื่องคิดเลข !"
+
+#~ msgid "Finish"
+#~ msgstr "เสร็จ"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "แป้นพิมพ์วิทยาศาสตร์"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr "เข้าถึงฟังก์ชันวิทยาศาสตร์ด้วยการลากแป้นพิมพ์ตัวเลขไปทางซ้าย"
+
+#~ msgid "Scientific View"
+#~ msgstr "มุมมองวิทยาศาสตร์"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr "หมุนเครื่องเพื่อดูตัวเลขและฟังก์ชั่นทางวิทยาศาสตร์ไปด้วยกัน"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "ลบรายการจากประวัติการคำนวณ"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "ปาดไปทางขวาเพื่อลบรายการในประว้ติเครื่องคิดเลข"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "ลบหลายๆ รายการจากประวัติการคำนวณ"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "กดค้างยาวเพื่อเลือกลบการคำนวณหลายอย่าง"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "ลบสูตรทั้งหมดในคราวเดียว"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr "กดปุ่ม ‘←’ ค้างยาวเพื่อลบสูตรทั้งหมดจากแป้นใส่ข้อมูล"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "แก้ไขรายการจากประวัติการคำนวณ"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "ปาดไปซ้ายแล้วกดที่ดินสอเพื่อแก้ไขการคำนวณ"
+
+#~ msgid "Add new favourite"
+#~ msgstr "เพิ่มรายการชื่นชอบใหม่"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr "ปาดไปซ้ายแล้วกดปุ่มดาวเพื่อเพิ่มการคำนวณไปไว้ที่มุมมองชื่นชอบ"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "คลิกตรงกลางสูตรพื่อแก้ไขตรงนั้น"

@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lomiri-calculator-app"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\build-lomiri-calculator-app-Clickable_Custom_Kit-Debug\;CMake Files\..\build-lomiri-calculator-app-Clickable_Custom_Kit-Debug\.qtc\;CMake Files\..\build-lomiri-calculator-app-Clickable_Custom_Kit-Debug\.qtc\package-manager\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Quick\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\;CMake Files\app\;CMake Files\app\engine\;CMake Files\app\ui\;CMake Files\app\upstreamcomponents\;CMake Files\tests\;CMake Files\po\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lomiri-calculator-app.desktop">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 lomiri-calculator-app.desktop"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lomiri-calculator-app_QMlFiles">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/Makefile&quot;  VERBOSE=1 lomiri-calculator-app_QMlFiles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lomiri-calculator-app_engine_QMlFiles">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/engine"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/engine/Makefile&quot;  VERBOSE=1 lomiri-calculator-app_engine_QMlFiles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/engine/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/engine/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/engine/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lomiri-calculator-app_ui_QMlFiles">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/ui"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/ui/Makefile&quot;  VERBOSE=1 lomiri-calculator-app_ui_QMlFiles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/ui/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/ui/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/ui/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lomiri-calculator-app_upstreamcomponents_QMlFiles">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/upstreamcomponents"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/upstreamcomponents/Makefile&quot;  VERBOSE=1 lomiri-calculator-app_upstreamcomponents_QMlFiles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/upstreamcomponents/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/upstreamcomponents/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/app/upstreamcomponents/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lomiri_calculator_translation_files">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 lomiri_calculator_translation_files"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="potfiles">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 potfiles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="potfiles_1">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 potfiles_1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lomiri-calculator-app.pot">
+				<Option working_dir="/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 lomiri-calculator-app.pot"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/engine/CalculationHistory.qml">
+			<Option target="lomiri-calculator-app_engine_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/engine/MathJs.qml">
+			<Option target="lomiri-calculator-app_engine_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/engine/formula.js">
+			<Option target="lomiri-calculator-app_engine_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/engine/math.js">
+			<Option target="lomiri-calculator-app_engine_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/lomiri-calculator-app.qml">
+			<Option target="lomiri-calculator-app_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/ActionButton.qml">
+			<Option target="lomiri-calculator-app_ui_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/BottomEdgePage.qml">
+			<Option target="lomiri-calculator-app_ui_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/CalcKeyboard.qml">
+			<Option target="lomiri-calculator-app_ui_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/KeyboardButton.qml">
+			<Option target="lomiri-calculator-app_ui_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/KeyboardPage.qml">
+			<Option target="lomiri-calculator-app_ui_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/LandscapeKeyboard.qml">
+			<Option target="lomiri-calculator-app_ui_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/PortraitKeyboard.qml">
+			<Option target="lomiri-calculator-app_ui_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/Screen.qml">
+			<Option target="lomiri-calculator-app_ui_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/ScrollableView.qml">
+			<Option target="lomiri-calculator-app_ui_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/TextInputPopover.qml">
+			<Option target="lomiri-calculator-app_ui_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/upstreamcomponents/EmptyState.qml">
+			<Option target="lomiri-calculator-app_upstreamcomponents_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/upstreamcomponents/MultipleSelectionVisualModel.qml">
+			<Option target="lomiri-calculator-app_upstreamcomponents_QMlFiles"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/aa.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/af.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/am.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ar.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ast.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/az.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/be.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/bem.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/bg.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/bn_BD.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/br.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/bs.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ca.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ca@valencia.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ckb.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/cs.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/cy.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/da.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/de.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/dv.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/el.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/en_AU.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/en_CA.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/en_GB.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/en_US.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/eo.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/es.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/et.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/eu.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fa.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fi.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fo.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fr.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fr_CA.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fr_CH.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/frp.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fur.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/gd.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/gl.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/gu.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/he.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/hi.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/hr.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/hu.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/hy.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/id.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/io.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/is.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/it.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ja.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/jbo.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ka.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/kab.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/km.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/kmr.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/kn.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ko.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/lb.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ln.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/lo.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/lomiri-calculator-app.pot">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/lt.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/lv.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/mg.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/mi.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/mk.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ml.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/mr.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ms.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/my.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/nan.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/nb.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ne.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/nl.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ny.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/om.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/pa.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/pam.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/pl.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ps.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/pt.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/pt_BR.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ro.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ru.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sa.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sc.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sco.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sd.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sdh.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/shn.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/si.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sk.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sl.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sq.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sr.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sv.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ta.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/te.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/tet.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/tg.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/th.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/tk.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/tr.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ug.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/uk.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ur.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/uz.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/vi.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/zh_CN.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/zh_HK.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/zh_TW.po">
+			<Option target="lomiri_calculator_translation_files"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/manifest.json.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/.qtc/package-manager/auto-setup.cmake">
+			<Option virtualFolder="CMake Files\..\build-lomiri-calculator-app-Clickable_Custom_Kit-Debug\.qtc\package-manager\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5QmlConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5QmlConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QDebugMessageServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QLocalClientConnectionFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlDebugServerFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlDebuggerServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlInspectorServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugConnectorFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlPreviewServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQmlProfilerServiceFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QQuickProfilerAdapterFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Qml/Qt5Qml_QTcpServerConnectionFactory.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Qml\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Quick/Qt5QuickConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Quick\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Quick\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\app\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/lomiri-calculator-app.desktop.in.in">
+			<Option virtualFolder="CMake Files\app\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/engine/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\app\engine\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/ui/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\app\ui\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/app/upstreamcomponents/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\app\upstreamcomponents\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/POTFILES.in">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/aa.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/af.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/am.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ar.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ast.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/az.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/be.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/bem.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/bg.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/bn_BD.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/br.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/bs.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ca.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ca@valencia.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ckb.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/cs.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/cy.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/da.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/de.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/dv.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/el.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/en_AU.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/en_CA.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/en_GB.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/en_US.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/eo.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/es.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/et.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/eu.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fa.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fi.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fo.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fr.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fr_CA.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fr_CH.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/frp.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/fur.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/gd.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/gl.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/gu.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/he.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/hi.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/hr.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/hu.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/hy.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/id.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/io.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/is.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/it.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ja.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/jbo.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ka.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/kab.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/km.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/kmr.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/kn.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ko.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/lb.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ln.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/lo.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/lt.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/lv.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/mg.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/mi.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/mk.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ml.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/mr.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ms.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/my.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/nan.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/nb.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ne.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/nl.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ny.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/om.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/pa.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/pam.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/pl.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ps.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/pt.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/pt_BR.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ro.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ru.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sa.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sc.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sco.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sd.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sdh.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/shn.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/si.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sk.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sl.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sq.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sr.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/sv.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ta.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/te.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/tet.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/tg.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/th.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/tk.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/tr.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ug.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/uk.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/ur.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/uz.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/vi.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/zh_CN.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/zh_HK.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+		<Unit filename="/home/nsyed/calc/lomiri-calculator-app/po/zh_TW.po">
+			<Option virtualFolder="CMake Files\po\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

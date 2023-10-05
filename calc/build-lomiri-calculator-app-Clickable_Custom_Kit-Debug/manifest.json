@@ -1,0 +1,22 @@
+{
+    "name": "calculator.ubports",
+    "architecture": "all",
+    "description": "Powerful and easy to use calculator",
+    "framework": "ubuntu-sdk-20.04",
+    "hooks": {
+        "calculator": {
+            "apparmor": "lomiri-calculator-app.apparmor",
+            "desktop": "share/applications/lomiri-calculator-app.desktop"
+        }
+    },
+    "maintainer": "UBports <dev@ubports.com>",
+    "title": "Calculator",
+    "icon": "",
+    "version": "4.0.1",
+    "migrations": {
+        "old-name": "com.ubuntu.calculator"
+    },
+    "x-test": {
+        "autopilot": "lomiri_calculator_app"
+    }
+}

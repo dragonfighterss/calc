@@ -1,0 +1,189 @@
+# Japanese translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/ja/>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "電卓"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "Ubuntuの電卓です。"
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr ""
+"math;addition;subtraction;multiplication;division;計算;電卓;足し算;引き算;か"
+"け算;わり算;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "無効な値"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "すべて選択"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "選択解除"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "コピー"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "削除"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "編集"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "式を編集"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "mod"
+
+#~ msgid "Favorite"
+#~ msgstr "お気に入り"
+
+#~ msgid "Add to favorites"
+#~ msgstr "お気に入りに追加"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "yyyy年 M月 d日"
+
+#~ msgid "No favorites"
+#~ msgstr "お気に入りがありません"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr "計算をお気に入りに追加するには、左にスワイプしてください"
+
+#~ msgid "Just now"
+#~ msgstr "たった今"
+
+#~ msgid "Today "
+#~ msgstr "今日 "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "昨日"
+
+#~ msgid "Skip"
+#~ msgstr "スキップ"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "電卓へようこそ"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "電卓を使って計算の力を感じてください"
+
+#~ msgid "Copy formula"
+#~ msgstr "式をコピー"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr "長押しで式の一部または全部をクリップボードにコピー"
+
+#~ msgid "Enjoy"
+#~ msgstr "楽しんでください"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "楽しんで電卓を使ってください!"
+
+#~ msgid "Finish"
+#~ msgstr "終了"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "科学計算キーボード"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr "数値キーボードを左にスワイプして科学計算キーボードを表示"
+
+#~ msgid "Scientific View"
+#~ msgstr "科学計算ビュー"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr "デバイスを回転して数値キーボードと科学記号を表示"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "計算履歴からアイテムを削除"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "右にスワイプして計算履歴から削除"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "アイテムを計算履歴から削除"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "長押しして複数の削除するアイテムを選択"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "すべての式を削除"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr "\"←\"ボタンを長押しですべての式をフィールドから削除"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "計算履歴のアイテムを編集"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "左にスワイプして鉛筆ボタンを押して編集"
+
+#~ msgid "Add new favourite"
+#~ msgstr "新しいお気に入りを追加"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr "左にスワイプし、星アイコンを押してお気に入りに追加"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "式の編集箇所をタップして編集"

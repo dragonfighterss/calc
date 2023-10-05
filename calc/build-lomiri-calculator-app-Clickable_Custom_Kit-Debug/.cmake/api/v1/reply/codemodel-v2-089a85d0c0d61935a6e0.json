@@ -1,0 +1,230 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "app",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "app",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "app/engine",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "app/engine",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "app/ui",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "app/ui",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "app/upstreamcomponents",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "app/upstreamcomponents",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "tests",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests"
+				},
+				{
+					"build" : "po",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "po",
+					"targetIndexes" : 
+					[
+						1,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "lomiri-calculator-app",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lomiri-calculator-app.desktop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lomiri-calculator-app.desktop-Debug-f05cc6fa1cbf7403678b.json",
+					"name" : "lomiri-calculator-app.desktop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "lomiri-calculator-app.pot::@fde6a12a88756396f0e5",
+					"jsonFile" : "target-lomiri-calculator-app.pot-Debug-c413efc4cb0c95979907.json",
+					"name" : "lomiri-calculator-app.pot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "lomiri-calculator-app_QMlFiles::@5f5a17c01335469806cb",
+					"jsonFile" : "target-lomiri-calculator-app_QMlFiles-Debug-fb43775ff626262de22b.json",
+					"name" : "lomiri-calculator-app_QMlFiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "lomiri-calculator-app_engine_QMlFiles::@b7b1c1678ff571b73efe",
+					"jsonFile" : "target-lomiri-calculator-app_engine_QMlFiles-Debug-0073012b8070ed368626.json",
+					"name" : "lomiri-calculator-app_engine_QMlFiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "lomiri-calculator-app_ui_QMlFiles::@09600290a8d003aea31a",
+					"jsonFile" : "target-lomiri-calculator-app_ui_QMlFiles-Debug-e1b7c7834acaf4215a51.json",
+					"name" : "lomiri-calculator-app_ui_QMlFiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "lomiri-calculator-app_upstreamcomponents_QMlFiles::@afede04814080f10bf81",
+					"jsonFile" : "target-lomiri-calculator-app_upstreamcomponents_QMlFiles-Debug-ebad25f3208c2db5b18c.json",
+					"name" : "lomiri-calculator-app_upstreamcomponents_QMlFiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "lomiri_calculator_translation_files::@fde6a12a88756396f0e5",
+					"jsonFile" : "target-lomiri_calculator_translation_files-Debug-a2e0644f67a8505dde38.json",
+					"name" : "lomiri_calculator_translation_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "potfiles::@fde6a12a88756396f0e5",
+					"jsonFile" : "target-potfiles-Debug-cf56a1825ba1cbb471ed.json",
+					"name" : "potfiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "potfiles_1::@fde6a12a88756396f0e5",
+					"jsonFile" : "target-potfiles_1-Debug-0c0b7f25eb87809ec8d0.json",
+					"name" : "potfiles_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug",
+		"source" : "/home/nsyed/calc/lomiri-calculator-app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

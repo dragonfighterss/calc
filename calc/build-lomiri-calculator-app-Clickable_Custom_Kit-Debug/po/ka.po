@@ -1,0 +1,189 @@
+# Georgian translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-04-13 05:14+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/ka/>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.17-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "კალკულატორი"
+
+#: lomiri-calculator-app.desktop.in:4
+msgid "A calculator for Lomiri."
+msgstr "კალკულატორი Lomiri-სთვის."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "მათემატიკა;დამატება;გამოკლება;გამრაველბა;გაყოფა;"
+
+#: lomiri-calculator-app.desktop.in:7
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "რიცხვი არ არის"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "გაუქმება"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "ყველას მონიშვნა"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "მონიშვნის მოხსნა"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "კოპირება"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "წაშლა"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "ჩასწორება"
+
+#: app/lomiri-calculator-app.qml:452
+msgid "Edit Result"
+msgstr "შედეგის ჩასწორება"
+
+#: app/lomiri-calculator-app.qml:823
+msgid "Functions"
+msgstr "ფუნქციები"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "მოდული"
+
+#~ msgid "Favorite"
+#~ msgstr "რჩეული"
+
+#~ msgid "Add to favorites"
+#~ msgstr "დამატება რჩეულებში"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "dd MMM yy"
+
+#~ msgid "No favorites"
+#~ msgstr "რჩეული არ არის"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "კალკულატორი გაასრიალეთ მარცხნივ\n"
+#~ "რომ დამატოთ რჩეულებში"
+
+#~ msgid "Just now"
+#~ msgstr "ახლავე"
+
+#~ msgid "Today "
+#~ msgstr "დღეს "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "გუშინ"
+
+#~ msgid "Skip"
+#~ msgstr "გამოტოვება"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "მოგესალმებით კალკულატორიში"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "ისიამოვნეთ მათემატიკის ძალით, კალკულატორის გამოყენებით"
+
+#~ msgid "Copy formula"
+#~ msgstr "ფორმულის კოპირება"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr "ხანგრძლივად დაჭერით რომ გააკეთოთ სრული ან ნაწილობრივი ასლი ბუფერში"
+
+#~ msgid "Enjoy"
+#~ msgstr "ისიამოვნეთ"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "ჩვენ ვიმევდოვნებთ, რომ თქვენ ისიამოვნეთ კალკულატორის გამოყენებით!"
+
+#~ msgid "Finish"
+#~ msgstr "დასრულება"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "სამეცნიერო კლავიატურა"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr ""
+#~ "მიიღეთ წვდომა სამეცნიერო ფუნქციებზე ციფრული კლავიატურაზე მარცხნივ "
+#~ "გასრიალებით"
+
+#~ msgid "Scientific View"
+#~ msgstr "სამეცნიერო ხედი"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr ""
+#~ "გვრდულად გადაბრუნეთ რომ გამოჩნდეს რიცხვითი და სამეცნიერო ფუნქციები ერთად"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "წაშალეთ კალკულაოტრის ისტორიიდან"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "კალკულატორის ისტრორიიდან ამოსაშლელად გაასრიალეთ მარჯვნივ"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "წაშალეთ რამოდენიმე ელემენტი კალკულატორის ისტორიიდან"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "დიდხანს დააჭირეთ რომ მონიშნით რამოდენიმე გამოთვლა წასაშლელად"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "წაშალეთ მთლიანი ფორმულა ერთად"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr ""
+#~ "დიდხანს დაჭერა '←' ღილაკზე გაასუფთავებს ყველა ფორმულას შესაყვანი ზოლიდან"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "შეცვალეთ ელემენტი კალკულატორის ისტორიიდან"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "გაასრიალეთ მარცხნივ და დააჭირეთ ფანქარს რომ შეცვალოთ კალკულაცია"
+
+#~ msgid "Add new favourite"
+#~ msgstr "დაამატეთ ახალი რჩეული"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr ""
+#~ "გაასრიალეთ მარცხნივ და დააჭირეთ ვარსკვლავს რომ დაამატოთ კალკულაცია "
+#~ "რჩეულებში"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "დააკლიკეთ ფორმულის შუაში რომ დაარედაქტიროთ იმ ადგილას"

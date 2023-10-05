@@ -1,0 +1,185 @@
+# Czech translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-03-30 03:15+0000\n"
+"Last-Translator: Jozef Mlich <jmlich83@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.17-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "Kalkulačka"
+
+#: lomiri-calculator-app.desktop.in:4
+msgid "A calculator for Lomiri."
+msgstr "Kalkulačka pro Lomiri."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "matematika;sčítání;dělení;odčítání;násobení;"
+
+#: lomiri-calculator-app.desktop.in:7
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "NaN"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "Vybrat vše"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "Zrušit výběr"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "Kopírovat"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "Smazat"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "Upravit"
+
+#: app/lomiri-calculator-app.qml:452
+msgid "Edit Result"
+msgstr "Upravit vzorec"
+
+#: app/lomiri-calculator-app.qml:823
+msgid "Functions"
+msgstr "Funkce"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "zbytek"
+
+#~ msgid "Favorite"
+#~ msgstr "Oblíbené"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Přidat do oblíbených"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "dd MMM yyyy"
+
+#~ msgid "No favorites"
+#~ msgstr "Žádné oblíbené položky"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "K označení oblíbených výpočtů \n"
+#~ "je přetáhněte doleva"
+
+#~ msgid "Just now"
+#~ msgstr "Právě teď"
+
+#~ msgid "Today "
+#~ msgstr "Dnes "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "Včera"
+
+#~ msgid "Skip"
+#~ msgstr "Přeskočit"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "Vítejte v Kalkulačce"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "Užívejte si sílu matematiky s Kalkulačkou"
+
+#~ msgid "Copy formula"
+#~ msgstr "Kopírovat vzorec"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr "Delším přitlačením zkopírujte část nebo celý vzorec do schránky"
+
+#~ msgid "Enjoy"
+#~ msgstr "Užijte si to"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "Věříme, že se vám používání kalkulačky líbí!"
+
+#~ msgid "Finish"
+#~ msgstr "Dokončit"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "Vědecká klávesnice"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr "K použití vědeckých funkcí přetáhněte numerickou klávesnici doleva"
+
+#~ msgid "Scientific View"
+#~ msgstr "Vědecký režim"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr ""
+#~ "Pro zobrazení číselných i vědeckých funkcí zároveň otočte zařízení na "
+#~ "šířku"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "Smazat záznam z historie výpočtů"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "Přetažením doprava smažete záznam z historie výpočtů"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "Smazat více záznamů z historie výpočtů"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "Delší stisk pro výběr většího množství záznamů ke smazání"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "Smazat celý vzorec najednou"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr "Delší stisk „←“ pro vymazání všech vzorců ze vstupního panelu"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "Upravit záznam z historie výpočtů"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "Pro úpravu výpočtu přetáhněte doleva a stiskněte tužku"
+
+#~ msgid "Add new favourite"
+#~ msgstr "Přidat do oblíbených"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr "Pro přidání do oblíbených přetáhněte doleva a stiskněte hvězdičku"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "Pro úpravu vzorce klikněte uprostřed vzorce"

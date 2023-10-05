@@ -1,0 +1,1614 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"gettext_process_pot_file"
+		],
+		"files" : 
+		[
+			"/usr/share/cmake-3.16/Modules/FindGettext.cmake",
+			"po/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 183,
+				"parent" : 1
+			}
+		]
+	},
+	"id" : "potfiles_1::@fde6a12a88756396f0e5",
+	"name" : "potfiles_1",
+	"paths" : 
+	{
+		"build" : "po",
+		"source" : "po"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				194,
+				195,
+				196,
+				197,
+				198,
+				199,
+				200,
+				201,
+				202,
+				203,
+				204,
+				205,
+				206,
+				207,
+				208,
+				209,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				219,
+				220,
+				221
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/CMakeFiles/potfiles_1",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/CMakeFiles/potfiles_1.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/aa.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/af.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/am.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ar.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ast.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/az.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/be.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/bg.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/bn_BD.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/br.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/bs.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ca.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ca@valencia.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ckb.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/cs.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/cy.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/da.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/de.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/el.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/en_AU.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/en_CA.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/en_GB.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/en_US.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/eo.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/es.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/et.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/eu.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fa.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fi.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fo.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fr.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fr_CA.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/gd.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/gl.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/gu.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/he.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/hi.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/hr.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/hu.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/hy.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/id.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/is.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/it.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ja.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ka.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/km.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/kn.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ko.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/lt.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/lv.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/mk.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ml.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/mr.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ms.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/my.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/nb.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ne.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/nl.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/pa.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/pl.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/pt.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/pt_BR.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ro.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ru.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sa.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sc.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/shn.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/si.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sk.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sl.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sq.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sr.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sv.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ta.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/te.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/th.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/tr.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ug.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/uk.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/uz.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/vi.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/zh_CN.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/zh_HK.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/zh_TW.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/kmr.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ps.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ny.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sdh.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/tk.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/mi.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/dv.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/nan.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fur.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/bem.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/lo.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/om.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/pam.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sco.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/frp.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/tg.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/io.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/jbo.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sd.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/tet.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ur.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fr_CH.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/lb.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ln.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/kab.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/mg.gmo.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/aa.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/af.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/am.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ar.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ast.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/az.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/be.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/bg.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/bn_BD.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/br.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/bs.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ca.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ca@valencia.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ckb.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/cs.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/cy.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/da.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/de.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/el.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/en_AU.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/en_CA.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/en_GB.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/en_US.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/eo.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/es.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/et.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/eu.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fa.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fi.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fo.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fr.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fr_CA.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/gd.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/gl.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/gu.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/he.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/hi.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/hr.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/hu.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/hy.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/id.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/is.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/it.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ja.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ka.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/km.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/kn.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ko.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/lt.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/lv.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/mk.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ml.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/mr.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ms.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/my.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/nb.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ne.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/nl.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/pa.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/pl.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/pt.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/pt_BR.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ro.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ru.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sa.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sc.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/shn.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/si.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sk.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sl.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sq.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sr.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sv.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ta.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/te.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/th.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/tr.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ug.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/uk.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/uz.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/vi.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/zh_CN.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/zh_HK.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/zh_TW.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/kmr.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ps.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ny.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sdh.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/tk.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/mi.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/dv.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/nan.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fur.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/bem.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/lo.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/om.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/pam.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sco.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/frp.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/tg.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/io.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/jbo.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/sd.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/tet.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ur.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/fr_CH.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/lb.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/ln.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/kab.po.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/nsyed/calc/build-lomiri-calculator-app-Clickable_Custom_Kit-Debug/po/mg.po.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

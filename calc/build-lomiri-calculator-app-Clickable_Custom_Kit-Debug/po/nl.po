@@ -1,0 +1,195 @@
+# Dutch translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-02-22 14:36+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/nl/>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "Rekenmachine"
+
+#: lomiri-calculator-app.desktop.in:4
+msgid "A calculator for Lomiri."
+msgstr "Een rekenmachine voor Lomiri."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "wiskunde;optellen;aftrekken;vermenigvuldigen;delen;"
+
+#: lomiri-calculator-app.desktop.in:7
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "Geen getal"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "Alles selecteren"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "Niets selecteren"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "Bewerken"
+
+#: app/lomiri-calculator-app.qml:452
+msgid "Edit Result"
+msgstr "Resultaat bewerken"
+
+#: app/lomiri-calculator-app.qml:823
+msgid "Functions"
+msgstr "Functies"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "mod"
+
+#~ msgid "Favorite"
+#~ msgstr "Favoriet"
+
+#~ msgid "Add to favorites"
+#~ msgstr "Toevoegen aan favorieten"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "dd MMM yyyy"
+
+#~ msgid "No favorites"
+#~ msgstr "Geen favorieten"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "Veeg berekeningen naar links\n"
+#~ "om ze te markeren als favoriet"
+
+#~ msgid "Just now"
+#~ msgstr "Zojuist"
+
+#~ msgid "Today "
+#~ msgstr "Vandaag "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "Gisteren"
+
+#~ msgid "Skip"
+#~ msgstr "Overslaan"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "Welkom bij Rekenmachine"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "Geniet van de kracht van de wiskunde met behulp van Rekenmachine"
+
+#~ msgid "Copy formula"
+#~ msgstr "Formule kopiëren"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr ""
+#~ "Houdt (een deel van een) formule lang ingedrukt om deze te kopiëren naar "
+#~ "het klembord"
+
+#~ msgid "Enjoy"
+#~ msgstr "Geniet ervan"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "Wij hopen dat je met plezier gebruikmaakt van Rekenmachine!"
+
+#~ msgid "Finish"
+#~ msgstr "Voltooien"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "Wetenschappelijk toetsenbord"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr ""
+#~ "Toon de wetenschappelijke functies door op het numerieke toetsenbord naar "
+#~ "links te vegen"
+
+#~ msgid "Scientific View"
+#~ msgstr "Wetenschappelijke weergave"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr ""
+#~ "Draai het apparaat om numerieke en wetenschappelijke functies tegelijk te "
+#~ "tonen"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "Item verwijderen uit rekengeschiedenis"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "Veeg naar rechts om item te verwijderen uit de rekengeschiedenis"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "Meerdere items verwijderen uit berekeningengeschiedenis"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr ""
+#~ "Houdt lang ingedrukt om meerdere te verwijderen berekeningen te selecteren"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "Gehele formule wissen"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr ""
+#~ "Houdt de  '←'-knop lang ingedrukt om alle formules uit de invoerbalk te "
+#~ "verwijderen"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "Item in rekengeschiedenis aanpassen"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr ""
+#~ "Veeg naar links en druk op het potlood om een berekening te aan te passen"
+
+#~ msgid "Add new favourite"
+#~ msgstr "Favoriet toevoegen"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr ""
+#~ "Veeg naar links en druk op de ster om berekeningen toe te voegen aan de "
+#~ "favorietenweergave"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "Druk midden in een formule om deze ter plekke aan te passen"

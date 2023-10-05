@@ -1,0 +1,189 @@
+# Amharic translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Amharic <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/am/>\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "መደመሪያ"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "ለ ኡቡንቱ ማስሊያ"
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "ሂሳብ;መደመሪያ;መቀነሻ;ማባዣ;ማካፈያ;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "ቁጥር አይደለም"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "መሰረዣ"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "ሁሉንም መምረጫ"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "ምንም አይምረጡ"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "ኮፒ"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "ማጥፊያ"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "ማረሚያ"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "መቀመሪያ ማረሚያ"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "ሎግ"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "ዘዴ"
+
+#~ msgid "Favorite"
+#~ msgstr "የምወዳቸው"
+
+#~ msgid "Add to favorites"
+#~ msgstr "ወደምወደው ውስጥ መጨመሪያ"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "dd MMM yyyy"
+
+#~ msgid "No favorites"
+#~ msgstr "የምወዳቸው የሉም"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "ወደ ግራ ይጥረጉ መደመሪያውን\n"
+#~ "ወደ የምወዳቸው ውስጥ ለ መጨመር"
+
+#~ msgid "Just now"
+#~ msgstr "አሁን"
+
+#~ msgid "Today "
+#~ msgstr "ዛሬ "
+
+#~ msgid "hh:mm"
+#~ msgstr "ሰሰ:ደደ"
+
+#~ msgid "Yesterday"
+#~ msgstr "ትናንትና"
+
+#~ msgid "Skip"
+#~ msgstr "መዝለያ"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "እንኳን ደህና መጡ ወደ ማስሊያ"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "በ ሂሳብ ማስሊያ ይደሰቱ"
+
+#~ msgid "Copy formula"
+#~ msgstr "መቀመሪያ ኮፒ ማድረጊያ"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr "በ ረጅሙ ይጫኑ መቀመሪያ ኮፒ ለማድረግ ወደ ቁራጭ ሰሌዳ"
+
+#~ msgid "Enjoy"
+#~ msgstr "ይደሰቱ"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "በ ማስሊያ እንደሚደሰቱ ተስፋ እናደርጋለን"
+
+#~ msgid "Finish"
+#~ msgstr "መጨረሻ"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "ሳይንሳዊ የ ፊደል ገበታ"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr "ሳይንሳዊ ተግባሮችን በ ቁጥር ገበታ ላይ ወደ ግራ በ መጥረግ ይድረሱ"
+
+#~ msgid "Scientific View"
+#~ msgstr "ሳይንሳዊ መመልከቻ"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr "አካሉን ያዙሩት ሂሳብ እና ሳይንሳዊ ተግባሮችን ባንድ ላይ ለማየት"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "እቃዎች ከ ማስሊያው ታሪክ ላይ ማጥፊያ"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "ወደ ቀኝ ይጥረጉ እቃዎችን ከ ማስሊያው ታሪክ ውስጥ ለማጥፋት"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "በርካታ እቃዎች ከ ማስሊያው ታሪክ ላይ ማጥፊያ"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "በ ረጅሙ ይጫኑ በርካታ ስሌቶች ከ ማስሊያው ታሪክ ውስጥ ለማጥፋት"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "ጠቅላላ መቀመሪያውን ባንድ ጊዜ ማጥፊያ"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr "በ ረጅሙ ይጫኑ '←' ይህን ቁልፍ መቀመሪያ ለ ማጥፋት ከ ማስገቢያው ላይ"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "ከ ማስሊያው ታሪክ ውስጥ እቃዎች ማረሚያ"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "ወደ ግራ ይጥረጉ እና ይጫኑ እርሳሱ ላይ ስሌቶችን ለማረም"
+
+#~ msgid "Add new favourite"
+#~ msgstr "አዲስ የምወዳቸው መጨመሪያ"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr "ወደ ግራ ይጥረጉ እና ይጫኑ ኮከብ ላይ ስሌቶችን ለ መጨመር ወደ እኔ የምወዳቸው"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "ይጫኑ በ መቀመሪያው ውስጥ ማረም እንዲችሉ"

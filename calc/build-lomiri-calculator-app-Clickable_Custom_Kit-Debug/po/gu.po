@@ -1,0 +1,187 @@
+# Gujarati translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Gujarati <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/gu/>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "કેલ્ક્યુલેટર"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "ઉબન્તુ માટે એક કેલ્ક્યુલેટર."
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "ગણિત;સરવાળો;બાદબાકી;ગુણાકાર;ભાગાકાર;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "કોઈ નંબર નથી"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "રદ કરો"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "બધું પસંદ કરો"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "કંઈ પણ પસંદ ન કરો"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "નકલ કરો"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "કાઢી નાખો"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "ફેરફાર કરો"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "સૂત્રમાં ફેરફાર કરો"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "લોગ"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "માનાંક"
+
+#~ msgid "Favorite"
+#~ msgstr "મનપસંદ"
+
+#~ msgid "Add to favorites"
+#~ msgstr "પસંદગીમાં ઉમેરો"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "તારીખ-મહિનો-વર્ષ"
+
+#~ msgid "No favorites"
+#~ msgstr "કોઇ પસંદગી નથી"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr "ગણતરીને પસંદગીમાં ઉમેરવા માટે ડાબી બાજુ ખસેડો"
+
+#~ msgid "Just now"
+#~ msgstr "હમણાં જ"
+
+#~ msgid "Today "
+#~ msgstr "આજે "
+
+#~ msgid "hh:mm"
+#~ msgstr "કલાકઃમિનીટ"
+
+#~ msgid "Yesterday"
+#~ msgstr "ગઈ કાલે"
+
+#~ msgid "Skip"
+#~ msgstr "છોડો"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "કેલ્ક્યુલેટરમાં સ્વાગત છે"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "કેલ્ક્યુલેટરનો ઉપયોગ કરીને ગણિતની શક્તિનો આનંદ માણો"
+
+#~ msgid "Copy formula"
+#~ msgstr "સૂત્રની નકલ કરો"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr "સૂત્રના અંશતઃ કે સંપૂર્ણ ભાગની નકલ ક્લીપબોડૅમાં કરવા લોંગ પ્રેસ કરો"
+
+#~ msgid "Enjoy"
+#~ msgstr "આનંદ માણો"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "અમને આશા છે કે તમે કેલ્ક્યુલેટરનો ઉપયોગ કરીને આનંદ માણ્યો!"
+
+#~ msgid "Finish"
+#~ msgstr "પૂર્ણ કરો"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "વૈજ્ઞાનિક કિબોડૅ"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr "ન્યુમેરીક કિપેડ પર ડાબું સ્વાઈપ કરીને વૈજ્ઞાનિક સુવિધા મેળવો"
+
+#~ msgid "Scientific View"
+#~ msgstr "વૈજ્ઞાનિક દેખાવ"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr "આંકડાકીય અને વૈજ્ઞાનિક વિધેયોને એકસાથે દર્શાવવા માટે ડિવાઇસ રોટેટ કરો"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "ગણતરીના ઈતિહાસમાંથી કાઢી નાખો"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "કેલ્ક્યુલેટરના ઈતિહાસમાંથી વસ્તુ કાઢી નાખવા માટે જમણી-બાજુ ખસેડો"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "ગણતરીના ઈતિહાસમાંથી થોડી વસ્તુઓ કાઢી નાખો"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "એક કરતાં વધારે વસ્તુઓ કાઢી નાખવા માટે પસંદ કરવા લોંગ પ્રેસ કરો"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "એકસાથે આખા સૂત્રને કાઢી નાખો"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr "ઇનપુટ બારમાંથી બધાં સૂત્રો દૂર કરવા માટે ‘←’ બટન પર લોંગ પ્રેસ કરો"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "ગણતરીના ઈતિહાસમાંથી વસ્તુ સુધારો"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "ગણતરીમાં ફેરફાર કરવા ડાબે ખસેડો અને પેન્સિલ પ્રેસ કરો"
+
+#~ msgid "Add new favourite"
+#~ msgstr "નવી પસંદગી ઉમેરો"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr "પસંદગીના દેખાવમાં ગણતરી ઉમેરવા માટે ડાબે ખસેડો અને સ્ટાર પ્રેસ કરો"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "સ્થાનમાં ફેરફાર કરવા માટે સૂત્રની મધ્યમાં ક્લિક કરો"

@@ -1,0 +1,57 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"gettext_process_pot_file",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/usr/share/cmake-3.16/Modules/FindGettext.cmake",
+			"po/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 177,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 188,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "potfiles_1::@fde6a12a88756396f0e5"
+		}
+	],
+	"id" : "potfiles::@fde6a12a88756396f0e5",
+	"name" : "potfiles",
+	"paths" : 
+	{
+		"build" : "po",
+		"source" : "po"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

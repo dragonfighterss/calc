@@ -1,0 +1,58 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"app/upstreamcomponents/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			}
+		]
+	},
+	"id" : "lomiri-calculator-app_upstreamcomponents_QMlFiles::@afede04814080f10bf81",
+	"name" : "lomiri-calculator-app_upstreamcomponents_QMlFiles",
+	"paths" : 
+	{
+		"build" : "app/upstreamcomponents",
+		"source" : "app/upstreamcomponents"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "app/upstreamcomponents/EmptyState.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "app/upstreamcomponents/MultipleSelectionVisualModel.qml",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "UTILITY"
+}

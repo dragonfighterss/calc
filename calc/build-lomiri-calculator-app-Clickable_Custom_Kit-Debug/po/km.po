@@ -1,0 +1,189 @@
+# Khmer translation for ubuntu-calculator-app
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the ubuntu-calculator-app package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubuntu-calculator-app\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-28 13:08+0000\n"
+"PO-Revision-Date: 2023-01-04 15:29+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Khmer (Central) <https://hosted.weblate.org/projects/lomiri/"
+"lomiri-calculator-app/km/>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+"X-Launchpad-Export-Date: 2017-04-05 07:42+0000\n"
+
+#: lomiri-calculator-app.desktop.in:3 app/lomiri-calculator-app.qml:285
+msgid "Calculator"
+msgstr "ម៉ាស៊ីន​គិត​លេខ"
+
+#: lomiri-calculator-app.desktop.in:4
+#, fuzzy
+#| msgid "A calculator for Ubuntu."
+msgid "A calculator for Lomiri."
+msgstr "ម៉ាស៊ីនគិតលេខសម្រាប់ Ubuntu"
+
+#: lomiri-calculator-app.desktop.in:5
+msgid "math;addition;subtraction;multiplication;division;"
+msgstr "គណិតវិទ្យា;វិធីបូក;វិធីដក;វិធីគុណ;វិធីចែក;"
+
+#: lomiri-calculator-app.desktop.in:7
+#, fuzzy
+msgid "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+msgstr "/usr/share/lomiri-calculator-app/lomiri-calculator-app.svg"
+
+#: app/engine/formula.js:179
+msgid "NaN"
+msgstr "NaN"
+
+#: app/lomiri-calculator-app.qml:294
+msgid "Cancel"
+msgstr "បោះបង់"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select All"
+msgstr "ជ្រើសទាំងអស់"
+
+#: app/lomiri-calculator-app.qml:306
+msgid "Select None"
+msgstr "គ្មានជ្រើស"
+
+#: app/lomiri-calculator-app.qml:313 app/lomiri-calculator-app.qml:429
+msgid "Copy"
+msgstr "ចម្លង"
+
+#: app/lomiri-calculator-app.qml:321 app/lomiri-calculator-app.qml:416
+msgid "Delete"
+msgstr "លុប"
+
+#: app/lomiri-calculator-app.qml:439
+msgid "Edit"
+msgstr "កែសម្រួល"
+
+#: app/lomiri-calculator-app.qml:452
+#, fuzzy
+#| msgid "Edit formula"
+msgid "Edit Result"
+msgstr "កែសម្រួលរូបមន្ត"
+
+#: app/lomiri-calculator-app.qml:823
+#, fuzzy
+msgid "Functions"
+msgstr "Functions"
+
+#. TRANSLATORS Natural logarithm symbol (logarithm to the base e)
+#: app/ui/BottomEdgePage.qml:55 app/ui/LandscapeKeyboard.qml:39
+msgid "log"
+msgstr "log"
+
+#. TRANSLATORS Modulo operation: Finds the remainder after division of one number by another
+#: app/ui/BottomEdgePage.qml:59 app/ui/LandscapeKeyboard.qml:46
+msgid "mod"
+msgstr "mod"
+
+#~ msgid "Favorite"
+#~ msgstr "សំណព្វ"
+
+#~ msgid "Add to favorites"
+#~ msgstr "បន្ថែមទៅសំណព្វ"
+
+#~ msgid "dd MMM yyyy"
+#~ msgstr "ថថ ខខខ ឆឆឆឆ"
+
+#~ msgid "No favorites"
+#~ msgstr "ឥតមានសំណព្វ"
+
+#~ msgid ""
+#~ "Swipe calculations to the left\n"
+#~ "to mark as favorites"
+#~ msgstr ""
+#~ "អូសការគណនាទៅឆ្វេង\n"
+#~ "ដើម្បីចំណាំជាសំណព្វ"
+
+#~ msgid "Just now"
+#~ msgstr "អម្បាញ់មិញនេះ"
+
+#~ msgid "Today "
+#~ msgstr "ថ្ងៃនេះ "
+
+#~ msgid "hh:mm"
+#~ msgstr "hh:mm"
+
+#~ msgid "Yesterday"
+#~ msgstr "ម្សិលមិញ"
+
+#~ msgid "Skip"
+#~ msgstr "រំលង"
+
+#~ msgid "Welcome to Calculator"
+#~ msgstr "ស្វាគមន៍មកកាន់ម៉ាស៊ីនគិតលេខ"
+
+#~ msgid "Enjoy the power of math by using Calculator"
+#~ msgstr "រីករាយជាមួយអំណាចនៃគណិត ដោយការប្រើម៉ាស៊ីនគិតលេខ"
+
+#~ msgid "Copy formula"
+#~ msgstr "ចម្លងរូបមន្ត"
+
+#~ msgid "Long press to copy part or all of a formula to the clipboard"
+#~ msgstr "ចុចឲ្យយូរ ដើម្បីចម្លងដោយផ្នែក ឬទាំងអស់នៃរូបមន្តទៅក្ដារតម្រៀប"
+
+#~ msgid "Enjoy"
+#~ msgstr "រីករាយ"
+
+#~ msgid "We hope you enjoy using Calculator!"
+#~ msgstr "យើងសង្ឃឹមថាអ្នកនឹងរីករាយក្នុងការប្រើម៉ាស៊ីនគិតលេខ!"
+
+#~ msgid "Finish"
+#~ msgstr "បញ្ចប់"
+
+#~ msgid "Scientific keyboard"
+#~ msgstr "ក្ដារចុចនៃវិទ្យាសាស្ត្រ"
+
+#~ msgid "Access scientific functions with a left swipe on the numeric keypad"
+#~ msgstr "អាក់សេសមុខងារវិទ្យាសាស្ត្រដោយអូសក្ដារចុចលេខទៅខាងឆ្វេង"
+
+#~ msgid "Scientific View"
+#~ msgstr "ទិដ្ឋភាពវិទ្យាសាស្ត្រ"
+
+#~ msgid "Rotate device to show numeric and scientific functions together"
+#~ msgstr "បង្វិលឧបករណ៍ ដើម្បីបង្ហាញលេខនិងមុខងារវិទ្យាសាស្ត្រជាមួយគ្នា"
+
+#~ msgid "Delete item from calculation history"
+#~ msgstr "លុបធាតុពីប្រវត្តគណនា"
+
+#~ msgid "Swipe right to delete items from calculator history"
+#~ msgstr "អូសទៅស្ដាំ ដើម្បីលុបធាតុពីប្រវត្តិគណនា"
+
+#~ msgid "Delete several items from calculation history"
+#~ msgstr "លុបធាតុជាច្រើនពីប្រវត្តិគណនា"
+
+#~ msgid "Long press to select multiple calculations for deletion"
+#~ msgstr "សង្កត់ឲ្យយូរ ដើម្បីជ្រើសពហុគណនា សម្រាប់លុបចោល"
+
+#~ msgid "Delete whole formula at once"
+#~ msgstr "លុបរូបមន្តទាំងអស់តែម្ដង"
+
+#~ msgid "Long press '←' button to clear all formulas from input bar"
+#~ msgstr "ចុចសង្កត់ប៊ូតង់ '←' ដើម្បីជម្រះរូបមន្តចេញពីរបារធាតុចូល"
+
+#~ msgid "Edit item from calculation history"
+#~ msgstr "កែសម្រួលធាតុពីប្រវត្តិគណនា"
+
+#~ msgid "Swipe left and press pencil to edit calculation"
+#~ msgstr "អូសទៅឆ្វេង និងចុចរូបខ្មៅដៃ ដើម្បីកែសម្រួលការគណនា"
+
+#~ msgid "Add new favourite"
+#~ msgstr "បន្ថែមសំណព្វថ្មី"
+
+#~ msgid "Swipe left and press star to add calculations to favourites view"
+#~ msgstr "អូសទៅឆ្វេង និងចុចចាប់ផ្ដើម ដើម្បីបន្ថែមការគណនាទៅទិដ្ឋភាពសំណព្វ"
+
+#~ msgid "Click in the middle of a formula to edit in place"
+#~ msgstr "ចុច​នៅ​កណ្តាល​រូបមន្ត​ដើម្បី​កែសម្រួល​នៅ​នឹង​កន្លែង"
